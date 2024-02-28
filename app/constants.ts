@@ -110,3 +110,17 @@ export const flightDetails = [
         imgUrl: '/emirate-removebg-preview.png'
     },
 ]
+export const flightsOptions = [
+    {
+        id: 1,
+        option: 'non-stop'
+    },
+    {
+        id: 2,
+        option: 'one-stop'
+    },
+    {
+        id: 3,
+        option: 'more-stop'
+    },
+]
