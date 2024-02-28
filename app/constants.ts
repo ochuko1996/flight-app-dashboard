@@ -124,3 +124,26 @@ export const flightsOptions = [
         option: 'more-stop'
     },
 ]
+
+export const profilePics = [
+    {
+        id: 1,
+        imgUrl: '/1.jpg'
+    },
+    {
+        id: 2,
+        imgUrl: '/2.jpg'
+    },
+    {
+        id: 3,
+        imgUrl: '/5.jpg'
+    },
+    {
+        id: 4,
+        imgUrl: '/6.jpg'
+    },
+    {
+        id: 5,
+        imgUrl: '/7.jpg'
+    },
+]
